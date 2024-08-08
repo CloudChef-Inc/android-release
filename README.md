@@ -1,2 +1,2 @@
 # android-release
-- first commit
+- CloudChef FPS Android Release auto update with version and description
