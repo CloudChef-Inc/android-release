@@ -1,9 +1,0 @@
-{
-    "latestVersion": "1.3.5",
-    "latestVersionCode": "11",
-    "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.3.5-11-staging/CloudChef.apk",
-    "releaseNotes": [
-      "- Fix cook steps error",
-      "- Added updated ui"
-    ]
-}
