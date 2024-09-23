@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.0.19",
-    "latestVersionCode": "20",
+    "latestVersion": "1.0.20",
+    "latestVersionCode": "21",
     "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.0.19-20/CloudChef.apk",
     "releaseNotes": [
       "- Fix cook steps error",
