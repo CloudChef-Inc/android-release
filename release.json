@@ -3,12 +3,6 @@
   "latestVersionCode": "25",
   "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.1.1-25/CloudChef.apk",
   "releaseNotes": [
- EOF
-
-for note in "Added new feature Fixed bugs"; do
-echo "                \"- \"," >> release.json
-done
-
-sed -i '$ s/,$//' release.json  # Remove last comma
-echo "              ]" >> release.json
-echo "          }" >> release.json
+    "Added new feature","Fixed bugs"
+  ]
+}
