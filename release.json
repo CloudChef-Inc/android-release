@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.1.2",
-  "latestVersionCode": "26",
+  "latestVersion": "1.1.4",
+  "latestVersionCode": "27",
   "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.1.2-26/CloudChef.apk",
   "releaseNotes": [
     "Improve auto-update process","Added versioning naming"
