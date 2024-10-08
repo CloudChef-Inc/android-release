@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.2.1",
-  "latestVersionCode": "30",
-  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.1-30/CloudChef.apk",
+  "latestVersion": "1.2.2",
+  "latestVersionCode": "31",
+  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.2-31/CloudChef.apk",
   "releaseNotes": [
-    "New Cook Unity Recording: Fixed known UI glitches"
+    "Fixed flaky app Installation error","Fixed power button hit-area"
   ]
 }
