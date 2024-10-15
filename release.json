@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.2.3",
-  "latestVersionCode": "32",
-  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.3-32/CloudChef.apk",
+  "latestVersion": "1.2.4",
+  "latestVersionCode": "33",
+  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.4-33/CloudChef.apk",
   "releaseNotes": [
-    "Fixed recording power button"," Fixed flaky installation"
+    "Fixed ingredients tab glitch"
   ]
 }
