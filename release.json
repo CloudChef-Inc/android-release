@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.2.4",
-  "latestVersionCode": "33",
-  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.4-33/CloudChef.apk",
+  "latestVersion": "1.2.5",
+  "latestVersionCode": "34",
+  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.5-34/CloudChef.apk",
   "releaseNotes": [
-    "Fixed ingredients tab glitch"
+    "Re-enable barcode functionality on recording menu"
   ]
 }
