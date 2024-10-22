@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.2.5",
-  "latestVersionCode": "34",
-  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.5-34/CloudChef.apk",
+  "latestVersion": "1.2.6",
+  "latestVersionCode": "35",
+  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.6-35/CloudChef.apk",
   "releaseNotes": [
     "Re-enable barcode functionality on recording menu"
   ]
