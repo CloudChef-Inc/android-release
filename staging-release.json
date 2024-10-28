@@ -1,6 +1,6 @@
 {
-    "latestVersion": "1.4.1",
-    "latestVersionCode": "17",
+    "latestVersion": "1.4.3",
+    "latestVersionCode": "18",
     "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.4.1-17-staging/CloudChef.apk",
     "releaseNotes": [
       "- Testing installation parse error fix",
