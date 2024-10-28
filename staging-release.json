@@ -1,8 +1,8 @@
 {
-    "latestVersion": "1.4.0",
-    "latestVersionCode": "20",
-    "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.4.1-17-staging/CloudChef.apk",
-    "releaseNotes": [
-      "- Testing installation parse error fix",
-    ]
+  "latestVersion": "1.4.6",
+  "latestVersionCode": "35",
+  "url": "https://github.com/CloudChef-Inc/android-release/releases/download/v1.2.6-35/CloudChef.apk",
+  "releaseNotes": [
+    "Re-enable barcode functionality on recording menu"
+  ]
 }
